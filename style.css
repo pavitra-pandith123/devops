@@ -1,43 +1,9 @@
-/* Basic styles for body */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+   
 }
 
-/* Container styling */
-.container {
-    text-align: center;
-    background-color: white;
-    
-}
 
-/* Heading styling */
-h1 {
-    color: #333;
-}
-
-/* Paragraph styling */
-p {
-    color: #666;
-}
-
-/* Button styling */
-.my-button {
-    padding: 10px 20px;
-    font-size: 16px;
-    border: none;
-    background-color: #3498db;
-    color: white;
-    
-}
-
-/* Button hover effect */
-.my-button:hover {
-    background-color: #2980b9;
-}
